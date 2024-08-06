@@ -1,0 +1,5 @@
+nmea_serial_driver:
+  ros__parameters:
+    port: "/dev/serial/by-id/usb-u-blox_AG_-_www.u-blox.com_u-blox_GNSS_receiver-if00"  # Change this to your desired port
+    baud: 9600
+
